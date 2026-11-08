@@ -1,4 +1,4 @@
-# Googleplaystore Analysis 
+# Google Play Store Apps 
 
 **Dashboard**: https://abdelilahmoulida.shinyapps.io/DashBoard-App-Store23/, dashboard made with RShiny that contains all the descriptive analysis of the dataset plus the predictive model used to predict the Rating.
 
